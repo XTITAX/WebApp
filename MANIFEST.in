@@ -1,2 +1,0 @@
-include jdk-22/*
-recursive-include jdk-22/ *
