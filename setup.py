@@ -15,7 +15,7 @@ setup(
     packages=find_packages(include=['WebApp']),
     include_package_data=True,
     package_data={
-        'WebApp': ['jdk-22/**/*', '.gitignore'],  # Включает все файлы и папки в jdk-22
+        'WebApp': ['jdk-22/**/*', 'jdk-22/lib/**/*', '.gitignore'],  # Включает все файлы и папки в jdk-22
     },
     classifiers=[
         'Development Status :: 3 - Alpha',
