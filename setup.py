@@ -18,7 +18,7 @@ setup(
         'webbrowser',
     ],
     package_data={
-        'TiLauncher': ['jdk-22', '.gitignore'],
+        'WebApp': ['jdk-22', '.gitignore'],
     },
     classifiers=[
         'Development Status :: 3 - Alpha',
