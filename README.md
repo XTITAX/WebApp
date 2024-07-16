@@ -18,7 +18,7 @@ python -m pip install git+https://github.com/XTITAX/WebApp.git
 import WebApp
 
 # Запустить локальное веб приложение
-TiLauncher.WebSite('Файл Страницы', 'Путь/к/основной/папке/веб/приложения')
+WebApp.WebSite('Файл Страницы', 'Путь/к/корневой/папке/веб/приложения')
 ```
 
 ## Условие работы
