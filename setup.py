@@ -14,11 +14,8 @@ setup(
     url='https://github.com/XTITAX/WebApp',
     packages=find_packages(include=['WebApp']),
     include_package_data=True,
-    data_files=[
-        ('WebApp', ['WebApp/jdk-22/*']),
-    ],
     package_data={
-        'WebApp': ['jdk-22', '.gitignore'],
+        'WebApp': ['jdk-22/**/*', '.gitignore'],  # Включает все файлы и папки в jdk-22
     },
     classifiers=[
         'Development Status :: 3 - Alpha',
