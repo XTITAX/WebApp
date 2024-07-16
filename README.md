@@ -23,6 +23,6 @@ TiLauncher.WebSite('Файл Страницы', 'Путь/к/основной/п
 
 ## Условие работы
 
-Нужен jdk 22 добавленый в Path. Ео можно скачать по ссылке:
+Нужен jdk 22 добавленый в Path. Его можно скачать по ссылке:
 
 https://www.oracle.com/java/technologies/downloads/#jdk22-windows
