@@ -20,3 +20,9 @@ import WebApp
 # Запустить локальное веб приложение
 TiLauncher.WebSite('Файл Страницы', 'Путь/к/основной/папке/веб/приложения')
 ```
+
+## Условие работы
+
+Нужен jdk 22 добавленый в Path. Ео можно скачать по ссылке:
+
+https://www.oracle.com/java/technologies/downloads/#jdk22-windows
