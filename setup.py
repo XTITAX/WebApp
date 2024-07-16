@@ -14,9 +14,6 @@ setup(
     url='https://github.com/XTITAX/WebApp',
     packages=find_packages(include=['WebApp']),
     include_package_data=True,
-    install_requires=[
-        'webbrowser',
-    ],
     package_data={
         'WebApp': ['jdk-22', '.gitignore'],
     },
